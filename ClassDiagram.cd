@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BDatabase">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMAAAgAAAAgAAAAAACAAQAgAgCAAAAAAAAAIAAAAgAA=</HashCode>
+      <FileName>bdatabase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Book">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAggCACEAQIBAgCIAAAQEPAAEAAAEAAgBwAAABAA=</HashCode>
+      <FileName>book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RDatabase">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAggACAAAAAAAAACAAAAgEAAAAAAACAAAIAAAAAAA=</HashCode>
+      <FileName>rdatabase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Reader">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAQgACgAAAQAAAAAAAAgQAFAAEAAACABAAQAAABAA=</HashCode>
+      <FileName>reader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
